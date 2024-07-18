@@ -1,7 +1,13 @@
 # **Disease clusters and their genetic determinants following a diagnosis of depression: analyses based on a novel three-dimensional disease network approach**
 
-In this study, we developed a novel three-dimensional network approach which refines disease association verification by incorporating regularized partial correlations, and facilitates robust identification and visualization of disease clusters (i.e., groups of depression-associated diseases with high within-group connectivity) through both non-temporal (illustrating by x-axis and y-axis) and temporal (by z-axis) dimensions.
+## Overview
 
-The interactive 3D disease network after a diagnosis of depression can be visulized in: https://hzcohort.github.io/3D-Disease-Network/full_plot.html
+In this study, we developed a novel three-dimensional network approach that integrates and refines existing disease trajectory and comorbidity network analysis methods. This new approach enhances disease association verification by incorporating regularized partial correlations. It also facilitates robust identification and visualization of disease clusters (i.e., groups of depression-associated diseases with high within-group connectivity) through both non-temporal (illustrated by the x-axis and y-axis) and temporal (z-axis) dimensions.
 
-The python code for doing the 3D disease network analysis using large-scale health care data will be added later.
+## Visualization
+
+The interactive 3D disease network following a diagnosis of depression can be visualized [here](https://hzcohort.github.io/3D-Disease-Network/full_plot.html).
+
+## Code Availability	
+
+The Python code for performing the 3D disease network analysis using large-scale healthcare data will be added later.
