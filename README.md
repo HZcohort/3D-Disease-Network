@@ -6,8 +6,8 @@ In this study, we developed a novel three-dimensional network approach that inte
 
 ## Visualization
 
-The interactive 3D disease network following a diagnosis of depression can be visualized [here](https://hzcohort.github.io/3D-Disease-Network/full_plot.html). Or you can download the the [html file](https://github.com/HZcohort/3D-Disease-Network/blob/main/full_plot.html) to view locally.
+The interactive 3D disease network following a diagnosis of depression can be visualized [here](https://hzcohort.github.io/3D-Disease-Network/full_plot.html). Or you can download the [html file](https://github.com/HZcohort/3D-Disease-Network/blob/main/full_plot.html) to view locally.
 
-## Code Availability	
+## Code Availability
 
 The Python code for performing the 3D disease network analysis using large-scale healthcare data will be added later.
