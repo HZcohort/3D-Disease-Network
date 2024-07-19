@@ -10,4 +10,4 @@ The interactive 3D disease network following a diagnosis of depression can be vi
 
 ## Code Availability
 
-The source code for this project is available in the "py_code" folder. Additionally, we are currently developing a Python package for conducting the 3D disease network analysis on large-scale health-care data, which will be made available in the near future.
+The source code for this project is available in the "[py_code](https://github.com/HZcohort/3D-Disease-Network/tree/main/py_code)" folder. Additionally, we are currently developing a Python package for conducting the 3D disease network analysis on large-scale health-care data, which will be made available in the near future.
