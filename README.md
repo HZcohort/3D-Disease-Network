@@ -15,6 +15,7 @@ GWAS summary data for the identified post-depression disease clusters are availa
 ## Code Availability
 
 The Python code for the disease network analysis is available in the "[py_code](https://github.com/HZcohort/3D-Disease-Network/tree/main/py_code)" folder, and it is tailored to this project.
+
 To enable reuse in other projects and datasets, we also provide an implementation using our Python package, ***DiNetxify*** (the alpha version was named ***DiseaseNetPy***). The package is available at: https://github.com/HZcohort/DiNetxify.
 
 ## Contact
