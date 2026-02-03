@@ -18,6 +18,11 @@ The Python code for the disease network analysis is available in the "[py_code](
 
 To enable reuse in other projects and datasets, we also provide an implementation using our Python package, ***DiNetxify*** (the alpha version was named ***DiseaseNetPy***). The package is available at: https://github.com/HZcohort/DiNetxify.
 
+## Citation
+
+1. [Disease clusters and their genetic determinants following a diagnosis of depression: analyses based on a novel three-dimensional disease network approach](https://www.nature.com/articles/s41380-025-03120-y) ([PMID: 40681841](https://pubmed.ncbi.nlm.nih.gov/40681841/))
+2. [DiNetxify—a python package for three‑dimensional disease network analysis based on electronic health record data](https://link.springer.com/article/10.1007/s10654-025-01360-4) ([PMID: 41579291](https://pubmed.ncbi.nlm.nih.gov/41579291/))
+
 ## Contact
 
 Can Hou: houcan@wchscu.cn
