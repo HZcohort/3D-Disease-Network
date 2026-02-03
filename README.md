@@ -12,7 +12,7 @@ The interactive 3D disease network following a diagnosis of depression can be vi
 
 GWAS summary data for the identified post-depression disease clusters are available on Zenodo: https://zenodo.org/records/15380732
 
-## Code Availability
+## Code availability
 
 The Python code for the disease network analysis is available in the "[py_code](https://github.com/HZcohort/3D-Disease-Network/tree/main/py_code)" folder, and it is tailored to this project.
 
